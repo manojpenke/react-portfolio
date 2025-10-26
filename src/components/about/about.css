@@ -84,8 +84,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
+} 
 .profile-glow {
   position: absolute;
   width: 250px;
