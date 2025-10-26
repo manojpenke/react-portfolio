@@ -126,7 +126,7 @@
     flex-direction: column;
     gap: 40px;
     margin-top:50;
-    padding-right :30px;
+    padding-right:30px;
   }
 
   .about-para {
@@ -150,11 +150,9 @@
     width: 60%;
     top: 50%;
   }
+
   .profile-glow{
-    display="none";
-  }
-  .profile-glow{
-    display:"none";
+    display:none;
   
   }
   .profile-wrapper{
@@ -185,5 +183,6 @@
   
   
 }
+
 
 
